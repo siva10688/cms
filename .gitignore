@@ -72,3 +72,4 @@ bld/
 
 # DNX
 project.lock.json
+/CMS/ArrayClass.cs
