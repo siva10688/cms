@@ -28,6 +28,8 @@ namespace CMS.Opps
                                                       new Student{ Id=5,Name="venkat"}
             };
 
+            students.GetName();
+
             var query = from s in students where s.Name == "ravi" select new Student { };
 
 
