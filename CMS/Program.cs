@@ -75,9 +75,13 @@ var a = new Arraycollections();
 //a.SortedList();
 //a.Stacks();
 //a.Queues();
-var stu = new Student();
-stu.Linq();
+//var stu = new Student();
+//stu.Linq();
 
+
+
+var delegateSample = new DelegateSample();
+delegateSample.Display();
 
 
 //var number = Console.ReadLine();
