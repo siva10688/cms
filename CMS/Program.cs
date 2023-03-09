@@ -80,9 +80,14 @@ var a = new Arraycollections();
 
 
 
-var delegateSample = new DelegateSample();
-delegateSample.Display();
+//var delegateSample = new DelegateSample();
+//delegateSample.Display();
+var Threading =new Threading();
+//Threading.Function1();
+//Threading.Function2();
+Threading.Function11();
 
+//var Threading = new Threading(Function11);
 
 //var number = Console.ReadLine();
 //Console.WriteLine(number);
